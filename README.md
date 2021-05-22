@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kandelak
-- 👀 I’m interested in Java,C,Assembler Programming etc.
+- 👀 I’m interested in Java , C , Assembler Programming etc.
 - 🌱 I’m currently learning C and Intel x64-86 assembly
 
 <!---
